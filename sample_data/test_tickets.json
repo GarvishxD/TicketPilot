@@ -1,0 +1,12 @@
+[
+{"ticket_id":"TE001","category":"Billing","message":"My latest invoice lists an unexpected subscription charge."},
+{"ticket_id":"TE002","category":"Billing","message":"Can I get a refund for the duplicate payment?"},
+{"ticket_id":"TE003","category":"Technical","message":"The application shows an error and crashes during upload."},
+{"ticket_id":"TE004","category":"Technical","message":"File sync is broken and keeps timing out."},
+{"ticket_id":"TE005","category":"Access","message":"I am locked out and need to reset my password."},
+{"ticket_id":"TE006","category":"Access","message":"There was an unauthorized login; I think my account was compromised."},
+{"ticket_id":"TE007","category":"General","message":"How can I learn about product features?"},
+{"ticket_id":"TE008","category":"General","message":"Where can I find documentation for my workspace?"},
+{"ticket_id":"TE009","category":"Billing","message":"Please explain the pricing on my receipt."},
+{"ticket_id":"TE010","category":"General","message":"Hello, what are your support hours?"}
+]
